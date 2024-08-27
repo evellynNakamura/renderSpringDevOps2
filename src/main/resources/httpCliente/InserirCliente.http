@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/picpay/clientes/inserirCliente
+Content-Type:application/json
+
+{
+  "cpf": "16722254188",
+  "nome": "Fábio Borges",
+  "email": "fabio@gmail.com.br",
+  "telefone": "88871644232"
+}

@@ -1,0 +1,2 @@
+GET http://localhost:8080/api/picpay/clientes/buscarPorFinalEmail/.br
+Content-Type: aplication/json

@@ -1,0 +1,9 @@
+PUT http://localhost:8080/api/picpay/clientes/atualizarCliente/12345678901
+Content-Type: application/json
+
+{
+  "cpf": "12345678901",
+  "nome": "Evellyn",
+  "email": "evellyn@gmail.com",
+  "telefone": "96833271898"
+}

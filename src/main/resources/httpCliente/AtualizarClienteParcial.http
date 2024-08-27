@@ -1,0 +1,7 @@
+PATCH http://localhost:8080/api/picpay/clientes/atualizarParcial/12345678901
+Content-Type: application/json
+
+{
+  "nome": "Evys",
+  "telefone": "19456987654"
+}
